@@ -1,0 +1,2206 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Onli",
+				"OnlineBrand"
+			],
+			[
+				"On",
+				"ONLINE_BRAND_CHOICES\t(surveys.js)"
+			],
+			[
+				"bran",
+				"brandChoices"
+			],
+			[
+				"Onlin",
+				"ONLINE_BRAND_CHOICES"
+			],
+			[
+				"markFo",
+				"markForDelivery\t(TicketDetailsTab.jsx)"
+			],
+			[
+				"markFor",
+				"markForDelivery"
+			],
+			[
+				"isGol",
+				"isGoldStar"
+			],
+			[
+				"Pinter",
+				"PinterestMetrics\tclass"
+			],
+			[
+				"Pintere",
+				"PinterestUser\tclass"
+			],
+			[
+				"is_indust",
+				"is_industry_back_pressured\tstatement"
+			],
+			[
+				"filtered",
+				"filter_industry_messages\tfunction"
+			],
+			[
+				"remo",
+				"remove_industry_messages\tfunction"
+			],
+			[
+				"fetch",
+				"fetch_industry_category_ids\tfunction"
+			],
+			[
+				"InstagramCollection",
+				"InstagramCollectionQueueForm\tclass"
+			],
+			[
+				"grouped_c",
+				"grouped_content_handler"
+			],
+			[
+				"ELASTICSEARCH_SNAPSHOT_POOL",
+				"ELASTICSEARCH_SNAPSHOT_POOL\tstatement"
+			],
+			[
+				"Tu",
+				"TumblrUser\tclass"
+			],
+			[
+				"transform",
+				"boxcox_transform"
+			],
+			[
+				"faceb",
+				"facebook_impressions_sync"
+			],
+			[
+				"facebook_",
+				"facebook_organic_impressions_predict"
+			],
+			[
+				"format",
+				"formatted_posts"
+			],
+			[
+				"data",
+				"data_for_pipline"
+			],
+			[
+				"fet",
+				"fetched_at"
+			],
+			[
+				"create",
+				"created_at"
+			],
+			[
+				"filter",
+				"filter_val"
+			],
+			[
+				"top",
+				"top_content"
+			],
+			[
+				"json",
+				"json_key"
+			],
+			[
+				"fitler",
+				"filter_val"
+			],
+			[
+				"doc",
+				"doc_type"
+			],
+			[
+				"ES_OS",
+				"ES_POST_TYPE"
+			],
+			[
+				"ES_POS",
+				"ES_POST_ALIAS"
+			],
+			[
+				"categor",
+				"category_map"
+			],
+			[
+				"out",
+				"out_clean"
+			],
+			[
+				"chun",
+				"chunk_keys"
+			],
+			[
+				"page",
+				"page_ids"
+			],
+			[
+				"Facebo",
+				"FacebookData"
+			],
+			[
+				"is",
+				"is_superuser"
+			],
+			[
+				"prefix",
+				"prefix_name"
+			],
+			[
+				"buk",
+				"bucket_name"
+			],
+			[
+				"temp",
+				"temp_arr"
+			],
+			[
+				"num",
+				"number_of_profiles"
+			],
+			[
+				"kl",
+				"klout_topics"
+			],
+			[
+				"AMAZON",
+				"AMAZON_S3_SECRET"
+			],
+			[
+				"AMAZ",
+				"AMAZON_S3_KEY"
+			],
+			[
+				"bucket",
+				"bucket_obj"
+			],
+			[
+				"aws",
+				"aws_pass"
+			],
+			[
+				"word_count",
+				"word_count_bucket"
+			],
+			[
+				"ser",
+				"serialize_content"
+			],
+			[
+				"Google",
+				"GooglePlusUser"
+			],
+			[
+				"filter_",
+				"filter_key"
+			],
+			[
+				"Ins",
+				"InstagramUser"
+			],
+			[
+				"get",
+				"getattr"
+			],
+			[
+				"serial",
+				"serialize_content"
+			],
+			[
+				"SERVICE",
+				"SERVICE_USER_ID_NAMES"
+			],
+			[
+				"snap",
+				"snapshot2"
+			],
+			[
+				"snaps",
+				"snapshots"
+			],
+			[
+				"class",
+				"classmethod"
+			],
+			[
+				"tw-test",
+				"tw-test-snapshot"
+			],
+			[
+				"tw-test-snapshot",
+				"tw-test-snapshot-index"
+			],
+			[
+				"DATA",
+				"DATA_W_META"
+			],
+			[
+				"instantia",
+				"instantiate_model_for_snapshots"
+			],
+			[
+				"obj",
+				"obj_id"
+			],
+			[
+				"csv",
+				"csv_rows"
+			],
+			[
+				"bulk_uplo",
+				"bulk_upload_to_snapshots"
+			],
+			[
+				"for",
+				"foreign_keys"
+			],
+			[
+				"mock",
+				"mock_settings"
+			],
+			[
+				"test_",
+				"test_post_index"
+			],
+			[
+				"test_po",
+				"test_post_doc_type"
+			],
+			[
+				"model",
+				"modeled_impressions"
+			],
+			[
+				"MAPPING_BODY_",
+				"MAPPING_BODY_POST"
+			],
+			[
+				"test",
+				"test_index"
+			],
+			[
+				"Facebook",
+				"FacebookPage"
+			],
+			[
+				"fbsnap",
+				"fb_snapshot_test13569"
+			],
+			[
+				"TEST",
+				"TEST_PAGE"
+			],
+			[
+				"TEST_",
+				"TEST_EMPTY_UM"
+			],
+			[
+				"s",
+				"self"
+			],
+			[
+				"mu",
+				"multiplyBy"
+			],
+			[
+				"above",
+				"aboveTen"
+			],
+			[
+				"binar",
+				"binarySearch"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "api/go/main.go",
+			"settings":
+			{
+				"buffer_size": 144,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "package main"
+			}
+		},
+		{
+			"file": "api/go/logger.go",
+			"settings":
+			{
+				"buffer_size": 422,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "package main"
+			}
+		},
+		{
+			"file": "api/go/routes.go",
+			"settings":
+			{
+				"buffer_size": 817,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "package main"
+			}
+		},
+		{
+			"file": "api/go/player.go",
+			"settings":
+			{
+				"buffer_size": 360,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "package main"
+			}
+		},
+		{
+			"file": "api/go/handlers.go",
+			"settings":
+			{
+				"buffer_size": 528,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": ":w",
+		"selected_items":
+		[
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"Mater",
+				"Material Theme: Configuration"
+			],
+			[
+				":W",
+				":w - Save"
+			],
+			[
+				":qw",
+				"BracketHighlighter: Swap Quotes"
+			],
+			[
+				":ew",
+				":w - Save"
+			],
+			[
+				":wq",
+				"BracketHighlighter: Swap Quotes"
+			],
+			[
+				":we",
+				":w - Save"
+			],
+			[
+				":",
+				":w - Save"
+			],
+			[
+				"Package Control",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"Package Controll",
+				"Package Control: List Packages"
+			],
+			[
+				"SublimeLInter",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"SublimeLinter",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"sublimeLinter",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				":q",
+				"Git: Quick Commit"
+			],
+			[
+				"shel",
+				"SublimeREPL: Shell"
+			],
+			[
+				"Shel",
+				"SublimeREPL: Shell"
+			],
+			[
+				"shell",
+				"SublimeREPL: Shell"
+			],
+			[
+				"power",
+				"SublimeREPL: PowerShell"
+			],
+			[
+				"Shell",
+				"SublimeREPL: Shell"
+			],
+			[
+				"SublimeREPL: She",
+				"SublimeREPL: Shell"
+			],
+			[
+				"PackageControl: Remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"SublimeREPL:Sh",
+				"SublimeREPL: Shell"
+			],
+			[
+				"Glue",
+				"Glue - Launch"
+			],
+			[
+				"Package Control In",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: Add Channel"
+			],
+			[
+				":0",
+				":0 - BOF"
+			],
+			[
+				"0",
+				":0 - BOF"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:  Remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control:  install",
+				"Package Control: Install Package"
+			],
+			[
+				"coffee: com",
+				"Coffee: Compile File"
+			],
+			[
+				"",
+				"Coffee: Lint"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 503.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/smitchelld/go/src/github.com/smitchelld/hockey_player_generator"
+	],
+	"file_history":
+	[
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/api/shared/methods/user_methods.js",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/api/shared/model/users.js",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/ui/admin/client/tickets/ticket_details/TicketDetails.jsx",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/ui/admin/client/tickets/components/TicketDetailsTab.jsx",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/ui/admin/client/tickets/components/TicketRevisionTab.jsx",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/ui/admin/client/UsersList.jsx",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/ui/admin/client/tickets/ticket_details/TicketDetailsContainer.jsx",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/api/shared/model/customers.js",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/api/shared/methods/customer_methods.js",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/ui/admin/client/customer_details/ImagePreferences.jsx",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/api/shared/methods/image_methods.js",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/api/shared/permissions.js",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/ui/admin/client/customer_details/CustomerDetailsPage.jsx",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/ui/admin/client/customer_details/tabs/customer_strategy/CustomerStrategyTab.jsx",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/api/shared/model/images.js",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/api/shared/methods/ticket_methods.js",
+		"/home/smitchelld/selfmade/selfmade/meteor/bin/sanitize_pii",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/ui/admin/client/UsersListContainer.jsx",
+		"/home/smitchelld/selfmade/selfmade/instagram/php/users.csv",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/ui/admin/client/customer_details/ImageProfile.jsx",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/ui/admin/client/AdminApp.jsx",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/api/shared/util/util.js",
+		"/home/smitchelld/selfmade/selfmade/meteor/settings-production.json",
+		"/home/smitchelld/selfmade/selfmade/meteor/settings-staging.json",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/startup/client/admin_routes.jsx",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/api/shared/methods/lead_methods.js",
+		"/home/smitchelld/selfmade/selfmade/meteor/settings-development.json",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/startup/client/www_routes.jsx",
+		"/home/smitchelld/selfmade.sublime-project",
+		"/home/smitchelld/selfmade/selfmade/app/ios/Pods/AWSCognito/Cognito/Internal/AWSCognitoDataset_Internal.h",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/api/shared/util/sendgrid.js",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/ui/admin/client/tickets/ticket_queue/TicketAddDirection.jsx",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/ui/admin/client/tickets/ticket_queue/TicketSearch.jsx",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/ui/www/client/website/login/Enroll.jsx",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/ui/admin/client/tickets/helpers/ViewHelpers.jsx",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/ui/admin/client/ticket_details/tabs/TicketDetailsTab.jsx",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/ui/admin/client/ticket_queue/IncomingTickets.jsx",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/ui/admin/client/ticket_queue/TicketSearch.jsx",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/api/server/publications/tickets_publications.js",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/ui/admin/client/ticket_details/TicketDetailsContainer.jsx",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/ui/admin/client/UploadImageEditModal.jsx",
+		"/home/smitchelld/selfmade/selfmade/meteor/packages/styles/client/scss/piazza/_ticket_details.scss",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/ui/admin/client/ticket_queue/helpers/ViewHelpers.jsx",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/api/shared/model/tickets.js",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/ui/admin/client/ticket_queue/TicketSearchContainer.jsx",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/ui/admin/client/ticket_queue/IncomingTicketsContainer.jsx",
+		"/home/smitchelld/Documents/ris_logs/ris_2016_12_01.csv",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/api/server/migrations.js",
+		"/home/smitchelld/Documents/ris_logs/ris_2016_11_28.csv",
+		"/home/smitchelld/selfmade/selfmade/scripts/mongo/daily_ris_report.js",
+		"/home/smitchelld/Documents/ris_logs/ris_2016_11_26.csv",
+		"/home/smitchelld/Documents/ris_logs/ris_2016_11_25.csv",
+		"/home/smitchelld/Documents/ris_logs/ris_2016_11_23.csv",
+		"/home/smitchelld/Documents/ris_logs/ris_2016_11_22.csv",
+		"/home/smitchelld/Documents/ris_logs/ris_2016_11_24.csv",
+		"/home/smitchelld/Documents/ris_logs/ris_2016_11_27.csv",
+		"/home/smitchelld/selfmade/selfmade/meteor/secret-settings-production.json",
+		"/home/smitchelld/selfmade/selfmade/meteor/secret-settings-development.json",
+		"/home/smitchelld/selfmade/selfmade/package.json",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/ui/admin/client/incoming_images/AddTicketModal.jsx",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/ui/admin/client/ticket_queue/SearchContainer.jsx",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/ui/admin/client/TicketPage.jsx",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/ui/admin/client/ticket_queue/AssignedTickets.jsx",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/ui/admin/client/ticket_queue/TicketFilters.jsx",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/ui/admin/client/ticket_queue/helpers/ContainerHelpers.jsx",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/ui/admin/client/TicketPageContainer.jsx",
+		"/home/smitchelld/selfmade/selfmade/meteor/packages/styles/client/scss/piazza/_ticket_queue.scss",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/ui/admin/client/incoming_images/Finish.jsx",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/ui/admin/client/BulkTicketStateChangeModal.jsx",
+		"/home/smitchelld/selfmade/selfmade/scripts/EODEmail/scripts/tickets.js",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/ui/admin/client/ticket_queue/DeliveredTicketsContainer.jsx",
+		"/home/smitchelld/Documents/ris_logs/ris_2016_11_21.csv",
+		"/home/smitchelld/Documents/ris_logs/ris_2016_11_20.csv",
+		"/home/smitchelld/Documents/ris_logs/ris_2016_11_19.csv",
+		"/home/smitchelld/Documents/ris_logs/ris_2016_11_18.csv",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/ui/admin/client/ticket_queue/TicketAddDirectionContainer.jsx",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/ui/admin/client/ticket_queue/TicketReviewContainer.jsx",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/ui/admin/client/ticket_queue/TicketAddDirection.jsx",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/ui/admin/client/ticket_queue/AssignedTicketsContainer.jsx",
+		"/home/smitchelld/Documents/ris_logs/ris_2016_11_14.csv",
+		"/home/smitchelld/selfmade/selfmade/meteor/package.json",
+		"/home/smitchelld/selfmade/selfmade/api/node_modules/util/util.js",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/ui/admin/client/ticket_queue/TicketReviewFrame.jsx",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/ui/admin/client/ticket_queue/AddCreativeDirectionContainer.jsx",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/ui/admin/client/ticket_queue/AddCreativeDirection.jsx",
+		"/home/smitchelld/selfmade/selfmade/meteor/imports/ui/admin/client/ticket_queue/TicketFiltersContainer.jsx",
+		"/home/smitchelld/selfmade/selfmade/meteor/.meteor/local/isopacks/selfmade_styles/web.browser/client/scss/piazza/_ticket_queue.scss",
+		"/home/smitchelld/Documents/tideholde.mdown",
+		"/home/smitchelld/selfmade/selfmade-meteor/meteor/imports/ui/admin/client/ticket_details/TicketDetailsContainer.jsx",
+		"/home/smitchelld/selfmade/selfmade-meteor/scripts/mongo/daily_ris_report.js",
+		"/home/smitchelld/Documents/ris_logs/ris_2016_11_02.CSV",
+		"/home/smitchelld/selfmade/selfmade-meteor/meteor/imports/api/shared/methods/customer_methods.js",
+		"/home/smitchelld/selfmade/selfmade-meteor/meteor/imports/api/shared/model/tickets.js",
+		"/home/smitchelld/selfmade/selfmade-meteor/meteor/imports/api/shared/model/customers.js",
+		"/home/smitchelld/selfmade/selfmade-meteor/meteor/imports/ui/admin/client/AddTicketModal.jsx",
+		"/home/smitchelld/selfmade/selfmade-meteor/meteor/imports/ui/admin/client/AddCustomerModal.jsx",
+		"/home/smitchelld/selfmade/selfmade-meteor/docs/local_mongo_image.mdown",
+		"/home/smitchelld/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+		"/home/smitchelld/selfmade/selfmade-meteor/meteor/packages/styles/client/scss/_tickets.scss",
+		"/home/smitchelld/selfmade/selfmade-meteor/meteor/imports/ui/admin/client/CustomerTable.jsx",
+		"/home/smitchelld/selfmade/selfmade-meteor/meteor/imports/api/shared/methods/image_methods.js",
+		"/home/smitchelld/selfmade/selfmade-meteor/meteor/imports/api/shared/model/images.js",
+		"/home/smitchelld/selfmade/selfmade-meteor/meteor/imports/api/shared/methods/ticket_methods.js",
+		"/home/smitchelld/selfmade/selfmade-meteor/meteor/imports/ui/admin/client/TicketPageContainer.jsx",
+		"/home/smitchelld/selfmade/selfmade-meteor/meteor/imports/ui/admin/client/TicketPage.jsx",
+		"/home/smitchelld/selfmade/selfmade-meteor/meteor/node_modules/react-bootstrap/lib/Image.js",
+		"/home/smitchelld/selfmade/selfmade-meteor/meteor/imports/ui/www/client/ImageSpecialist.jsx",
+		"/home/smitchelld/selfmade/selfmade-meteor/meteor/run_dev.sh",
+		"/home/smitchelld/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/smitchelld/selfmade/selfmade-meteor/ngrok.sh",
+		"/home/smitchelld/selfmade/selfmade-meteor/meteor/deploy_production.sh",
+		"/home/smitchelld/selfmade/selfmade-meteor/meteor/merged-settings-development.json",
+		"/home/smitchelld/selfmade/selfmade-meteor/meteor/imports/ui/admin/client/Nav.jsx",
+		"/shareablee/web/app/modeling/pipeline.py",
+		"/shareablee/web/app/modeling/impressions.py",
+		"/shareablee/web/app/categories/models.py",
+		"/shareablee/web/app/xsettings/sources.py",
+		"/shareablee/web/app/xsettings/_base.py",
+		"/shareablee/web/app/modeling/tasks.py",
+		"/shareablee/web/app/modeling/management/commands/predict_fb_post_impressions.py",
+		"/shareablee/web/app/snapshots/backend.py",
+		"/shareablee/web/app/xsettings/ec2_production.py",
+		"/shareablee/web/app/lib/management/commands/auto_campaign_tracker.py",
+		"/shareablee/web/app/lib/management/commands/export_sp500.py",
+		"/shareablee/deploy/impressions/roles/configure/tasks/main.yml",
+		"/shareablee/deploy/impressions/roles/install_scikit/tasks/main.yml",
+		"/shareablee/deploy/impressions/roles/install_binaries/tasks/main.yml",
+		"/shareablee/deploy/impressions/roles/update_deps/tasks/main.yml"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 97.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"log",
+			"WhatGenderSchema",
+			"skippedAt",
+			"OnlineBrand",
+			"Next",
+			"skip Question",
+			"QuestionTypes",
+			"<textarea",
+			"type=\"textarea\"",
+			"textarea",
+			"text",
+			"subheader",
+			"mood",
+			"gender",
+			"isGoldStar",
+			"TicketRevisionTa",
+			"if (allsave",
+			"render",
+			"length",
+			"markTicketApproved",
+			"mark",
+			"rank",
+			"Meteor.users",
+			"updateRank",
+			"rank",
+			"setRank",
+			"TicketDetailsTab",
+			"updateCustomer",
+			"style={{",
+			"marginLeft",
+			"state.text",
+			"getInitialState",
+			"editingNotes",
+			"update",
+			"notes",
+			"getUserInfo",
+			"enroll",
+			"PushNotifications",
+			"login",
+			"Error",
+			"Meteor.error",
+			"error",
+			"customer",
+			"Permissions",
+			"adminRoutes",
+			"Permissions",
+			"substitutions",
+			"SendGridKeys",
+			"sendWaitlistEmail",
+			"sendgrid",
+			"queryParams",
+			"tickets.",
+			"imagesIds",
+			"imageIds",
+			"initialDeliveryTime",
+			"toggleBulk",
+			"kadira",
+			"psd",
+			"ensureIndex",
+			"timeCreated",
+			"priority",
+			"ticketState",
+			"tickeState",
+			"sort",
+			"7776",
+			"timeCreated",
+			"7750",
+			"16428",
+			"getMore",
+			"TicketMethods",
+			"multip",
+			"console.log",
+			"psd.changed",
+			"clearInterval",
+			"handlePSDPick",
+			"psdUrl",
+			"psd",
+			"uploadImageEditModal",
+			"slingshot",
+			"slingshow",
+			"file",
+			"pSD_ENDPOINT",
+			"psd",
+			"imagesContainer",
+			"sort",
+			"handleBulkIS",
+			"handleBulkISAssign",
+			"handleBulkISAss",
+			"creativeAgent",
+			"Finish",
+			"BulkISAssign",
+			"Finish",
+			"imageSpecialists",
+			"propTypes",
+			"Finish",
+			"ticket-details-tab",
+			"getTabContent",
+			"getPrimaryContent",
+			"filterImagesByType",
+			"getPrimaryContent",
+			"utc",
+			"filterImagesByType",
+			"review",
+			"AddCreativeDirection",
+			"getTicketDirection",
+			"creativeMoves",
+			"this",
+			"pageNum",
+			"baseProps",
+			"toInclude",
+			"getTableData",
+			"ContainerHelpers",
+			"ncoming",
+			"creativeDirections: { $gt: [] }",
+			"creativeDirections: { $exists: true }",
+			"$exists: true",
+			"creativeDirections",
+			"QUALITY_CHECK",
+			">",
+			"email",
+			"console.log(1",
+			"console.log",
+			"status",
+			"handleCellSaved",
+			"editable",
+			"getPriority",
+			"formatPriority",
+			"Status"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"text",
+			"TicketAddDirection",
+			"incomingTicketsProps",
+			"creativeDirections: { $exists: true, $ne: [] }",
+			"creativeDirections: { $gt: [] }",
+			",",
+			"suggestion_dict",
+			"4-30",
+			"campaign_tracker_s3_archival",
+			"",
+			".Integer()",
+			"pinterest",
+			"$1,\\n",
+			"$1,",
+			"$1,\\n",
+			"total_pin_count",
+			", ",
+			"",
+			",\\n",
+			", ",
+			",",
+			"",
+			"mapping_ids",
+			",",
+			":$1 {:type \"long\"}\\n",
+			":$1 {:type \"long\"}",
+			"\"$1\",\\n",
+			"\"$1\"\\n",
+			":$1 {:type \"long\"}\\n",
+			":$1 {:type \"long\"}",
+			"$1,\\n",
+			"$1,",
+			"\"$1\",",
+			"\"$1\",\\n",
+			"$1",
+			"/var/logs/cron",
+			"2015-02-03",
+			"2015-02-02",
+			"2015_02_02",
+			"2015-02-03T05:00:00+00:00",
+			"2015-02-02T05:00:00+00:00",
+			",",
+			"",
+			",",
+			"",
+			"(self.start, self.end)",
+			"[self.object_id]",
+			"[i['pk'] for i in page.categories.values('pk')]",
+			"LOGGER.warn($1)",
+			"{\n    \"id\": \"$1\",\n    \"name\": \"$2\",\n    \"field\": \"$4\",\n    \"service\": \"$3\"\n},\\n",
+			"{\n    \"id\": \"$1\",\n    \"name\": \"$2\",\n    \"field\": $4\",\n    \"service\": \"$3\"\n},\\n",
+			"{\n    \"id\": \"$1\",\n    \"name\": \"$2\",\n    \"field\": $4\",\n    \"service\": \"$3\"\n}",
+			"",
+			"$1 ",
+			"",
+			"        elif self.metrics_level == 'category':\n            category_dict = filter_industry_categories(\n                [self.object_id],\n                self.start,\n                self.end,\n                self.service\n            )\n            if category_dict['industry_ids']:",
+			"",
+			",",
+			"",
+			",",
+			"",
+			",",
+			"",
+			" ",
+			"",
+			"'$1',\\n",
+			"'",
+			"print \"$1 {}\".format($1)",
+			"RoutingBackend",
+			"long",
+			",",
+			",$",
+			"\"$1\": \"$2\"",
+			"cls.category_arr",
+			"category_arr",
+			"_category_arr",
+			"long",
+			"\\t$1",
+			"\"$1\": {\\n\"type\": \"long\"\\n},",
+			"\"$1\": {\\n\"type\": \"long\"\\n},\\n",
+			"_long\\n",
+			"_long",
+			"instagram",
+			"InstagramCollectionQueue",
+			"logging@shareablee.com",
+			"bar1",
+			"foo",
+			"audience_percent_overlap",
+			"property",
+			"",
+			"$1: ",
+			"$1 :",
+			"div",
+			"* Overlap data below reporting threshold",
+			"latest_followers",
+			"users",
+			"-11",
+			"CrossEngagementDiscoveryCollection",
+			"Affinity",
+			"",
+			"$1,",
+			"",
+			"\"$1\"",
+			"$1 ->",
+			"'$1': '$1',",
+			"$1",
+			"",
+			"\\}\",\\n",
+			",",
+			"",
+			"div",
+			"</div",
+			"<div",
+			"div",
+			"'$1':",
+			"'),",
+			": ('",
+			",",
+			"04",
+			"10",
+			"\\n",
+			"total_impressions",
+			"group_top_content_by_links",
+			",",
+			"",
+			"$1,",
+			"total_impressions",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "api/go/main.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 144,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								65,
+								65
+							]
+						],
+						"settings":
+						{
+							"auto_name": "package main",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										143,
+										144
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										63,
+										64
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Go/Go.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "api/go/logger.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 422,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								356,
+								356
+							]
+						],
+						"settings":
+						{
+							"auto_name": "package main",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										412,
+										413
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										275,
+										276
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Go/Go.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "api/go/routes.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 817,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								293,
+								293
+							]
+						],
+						"settings":
+						{
+							"auto_name": "package main",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										293,
+										294
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										288,
+										289
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Go/Go.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "api/go/player.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 360,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								357,
+								357
+							]
+						],
+						"settings":
+						{
+							"auto_name": "package main",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										356,
+										357
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										192,
+										193
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Go/Go.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "api/go/handlers.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 528,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								68,
+								68
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										97,
+										98
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										21,
+										22
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Go/Go.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "hockey_player_generator.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"user_metho",
+				"meteor/imports/api/shared/methods/user_methods.js"
+			],
+			[
+				"www_rou",
+				"meteor/imports/startup/client/www_routes.jsx"
+			],
+			[
+				"users",
+				"meteor/imports/api/shared/model/users.js"
+			],
+			[
+				"survey",
+				"meteor/imports/api/shared/model/surveys.js"
+			],
+			[
+				"survey_m",
+				"meteor/imports/api/shared/methods/survey_methods.js"
+			],
+			[
+				"ticketdetail",
+				"meteor/imports/ui/admin/client/tickets/components/TicketDetailsTab.jsx"
+			],
+			[
+				"sur",
+				"meteor/imports/api/shared/model/surveys.js"
+			],
+			[
+				"onlin",
+				"meteor/imports/ui/www/client/website/survey/OnlineBrand.jsx"
+			],
+			[
+				"gender",
+				"meteor/imports/ui/www/client/website/survey/GenderSurvey.jsx"
+			],
+			[
+				"online",
+				"meteor/imports/ui/www/client/website/survey/OnlineBrand.jsx"
+			],
+			[
+				"www_r",
+				"meteor/imports/startup/client/www_routes.jsx"
+			],
+			[
+				"ticketd",
+				"meteor/imports/ui/admin/client/tickets/ticket_details/TicketDetails.jsx"
+			],
+			[
+				"ticketrevi",
+				"meteor/imports/ui/admin/client/tickets/components/TicketRevisionTab.jsx"
+			],
+			[
+				"ticketdetails",
+				"meteor/imports/ui/admin/client/tickets/components/TicketDetailsTab.jsx"
+			],
+			[
+				"ticketdeta",
+				"meteor/imports/ui/admin/client/tickets/ticket_details/TicketDetails.jsx"
+			],
+			[
+				"images",
+				"meteor/imports/api/shared/model/images.js"
+			],
+			[
+				"sani",
+				"meteor/bin/sanitize_pii"
+			],
+			[
+				"ticket_metho",
+				"meteor/imports/api/shared/methods/ticket_methods.js"
+			],
+			[
+				"ticketde",
+				"meteor/imports/ui/admin/client/tickets/ticket_details/TicketDetails.jsx"
+			],
+			[
+				"ticket_method",
+				"meteor/imports/api/shared/methods/ticket_methods.js"
+			],
+			[
+				"user_method",
+				"meteor/imports/api/shared/methods/user_methods.js"
+			],
+			[
+				"userslist",
+				"meteor/imports/ui/admin/client/UsersListContainer.jsx"
+			],
+			[
+				"userli",
+				"meteor/imports/ui/admin/client/UsersList.jsx"
+			],
+			[
+				"permission",
+				"meteor/imports/api/shared/permissions.js"
+			],
+			[
+				"ticketdetailscon",
+				"meteor/imports/ui/admin/client/tickets/ticket_details/TicketDetailsContainer.jsx"
+			],
+			[
+				"ticketrevisio",
+				"meteor/imports/ui/admin/client/tickets/components/TicketRevisionTab.jsx"
+			],
+			[
+				"permi",
+				"meteor/imports/api/shared/permissions.js"
+			],
+			[
+				"image_metho",
+				"meteor/imports/api/shared/methods/image_methods.js"
+			],
+			[
+				"image_meth",
+				"meteor/imports/api/shared/methods/image_methods.js"
+			],
+			[
+				"customer_met",
+				"meteor/imports/api/shared/methods/customer_methods.js"
+			],
+			[
+				"imageprefer",
+				"meteor/imports/ui/admin/client/customer_details/ImagePreferences.jsx"
+			],
+			[
+				"imageprof",
+				"meteor/imports/ui/admin/client/customer_details/ImageProfile.jsx"
+			],
+			[
+				"customerstr",
+				"meteor/imports/ui/admin/client/customer_details/tabs/customer_strategy/CustomerStrategyTab.jsx"
+			],
+			[
+				"customer_metho",
+				"meteor/imports/api/shared/methods/customer_methods.js"
+			],
+			[
+				"customer",
+				"meteor/imports/api/shared/model/customers.js"
+			],
+			[
+				"custoerde",
+				"meteor/imports/ui/admin/client/customer_details/CustomerDetailsPage.jsx"
+			],
+			[
+				"settings-s",
+				"meteor/settings-staging.json"
+			],
+			[
+				"settings-deve",
+				"meteor/settings-development.json"
+			],
+			[
+				"ticket_emt",
+				"meteor/imports/api/shared/methods/ticket_methods.js"
+			],
+			[
+				"settings-pro",
+				"meteor/settings-production.json"
+			],
+			[
+				"settings-stag",
+				"meteor/settings-staging.json"
+			],
+			[
+				"settings-de",
+				"meteor/settings-development.json"
+			],
+			[
+				"customerdeta",
+				"meteor/imports/ui/admin/client/customer_details/CustomerDetailsPage.jsx"
+			],
+			[
+				"admin",
+				"meteor/imports/startup/client/admin_routes.jsx"
+			],
+			[
+				"settings-pr",
+				"meteor/settings-production.json"
+			],
+			[
+				"settings-stagi",
+				"meteor/settings-staging.json"
+			],
+			[
+				"settings-",
+				"meteor/settings-development.json"
+			],
+			[
+				"adin",
+				"app/ios/Pods/AWSCognito/Cognito/Internal/AWSCognitoDataset_Internal.h"
+			],
+			[
+				"user_me",
+				"meteor/imports/api/shared/methods/user_methods.js"
+			],
+			[
+				"admina",
+				"meteor/imports/ui/admin/client/AdminApp.jsx"
+			],
+			[
+				"util",
+				"meteor/imports/api/shared/util/util.js"
+			],
+			[
+				"sendgri",
+				"meteor/imports/api/shared/util/sendgrid.js"
+			],
+			[
+				"lead_methods",
+				"meteor/imports/api/shared/methods/lead_methods.js"
+			],
+			[
+				"enroll",
+				"meteor/imports/ui/www/client/website/login/Enroll.jsx"
+			],
+			[
+				"image_methosd",
+				"meteor/imports/api/shared/methods/image_methods.js"
+			],
+			[
+				"ticket_methods",
+				"meteor/imports/api/shared/methods/ticket_methods.js"
+			],
+			[
+				"viewhel",
+				"meteor/imports/ui/admin/client/tickets/helpers/ViewHelpers.jsx"
+			],
+			[
+				"tickets",
+				"meteor/imports/ui/admin/client/tickets/ticket_queue/TicketSearch.jsx"
+			],
+			[
+				"ticketadd",
+				"meteor/imports/ui/admin/client/tickets/ticket_queue/TicketAddDirection.jsx"
+			],
+			[
+				"ticket_pub",
+				"meteor/imports/api/server/publications/tickets_publications.js"
+			],
+			[
+				"ticketsearch",
+				"meteor/imports/ui/admin/client/ticket_queue/TicketSearchContainer.jsx"
+			],
+			[
+				"ticketse",
+				"meteor/imports/ui/admin/client/ticket_queue/TicketSearch.jsx"
+			],
+			[
+				"incomingtick",
+				"meteor/imports/ui/admin/client/ticket_queue/IncomingTicketsContainer.jsx"
+			],
+			[
+				"incomingtic",
+				"meteor/imports/ui/admin/client/ticket_queue/IncomingTickets.jsx"
+			],
+			[
+				"migrations",
+				"meteor/imports/api/server/migrations.js"
+			],
+			[
+				"daily",
+				"scripts/mongo/daily_ris_report.js"
+			],
+			[
+				"ticket_detail",
+				"meteor/packages/styles/client/scss/piazza/_ticket_details.scss"
+			],
+			[
+				"scret-settings",
+				"meteor/secret-settings-production.json"
+			],
+			[
+				"secret-",
+				"meteor/secret-settings-development.json"
+			],
+			[
+				"package.",
+				"package.json"
+			],
+			[
+				"upl",
+				"meteor/imports/ui/admin/client/UploadImageEditModal.jsx"
+			],
+			[
+				"image",
+				"meteor/imports/api/shared/model/images.js"
+			],
+			[
+				"ticket",
+				"meteor/imports/api/shared/model/tickets.js"
+			],
+			[
+				"ticketpagecon",
+				"meteor/imports/ui/admin/client/TicketPageContainer.jsx"
+			],
+			[
+				"ticket_publ",
+				"meteor/imports/api/server/publications/tickets_publications.js"
+			],
+			[
+				"tickte",
+				"scripts/EODEmail/scripts/tickets.js"
+			],
+			[
+				"search",
+				"meteor/imports/ui/admin/client/ticket_queue/SearchContainer.jsx"
+			],
+			[
+				"delivered",
+				"meteor/imports/ui/admin/client/ticket_queue/DeliveredTicketsContainer.jsx"
+			],
+			[
+				"ticketpage",
+				"meteor/imports/ui/admin/client/TicketPage.jsx"
+			],
+			[
+				"bulkcha",
+				"meteor/imports/ui/admin/client/BulkTicketStateChangeModal.jsx"
+			],
+			[
+				"finish",
+				"meteor/imports/ui/admin/client/incoming_images/Finish.jsx"
+			],
+			[
+				"ticketdetailst",
+				"meteor/imports/ui/admin/client/ticket_details/tabs/TicketDetailsTab.jsx"
+			],
+			[
+				"uploadimag",
+				"meteor/imports/ui/admin/client/UploadImageEditModal.jsx"
+			],
+			[
+				"iamge_met",
+				"meteor/imports/api/shared/methods/image_methods.js"
+			],
+			[
+				"ticket_queu",
+				"meteor/packages/styles/client/scss/piazza/_ticket_queue.scss"
+			],
+			[
+				"daily_",
+				"scripts/mongo/daily_ris_report.js"
+			],
+			[
+				"containerh",
+				"meteor/imports/ui/admin/client/ticket_queue/helpers/ContainerHelpers.jsx"
+			],
+			[
+				"deliever",
+				"meteor/imports/ui/admin/client/ticket_queue/DeliveredTicketsContainer.jsx"
+			],
+			[
+				"ticket_fil",
+				"meteor/imports/ui/admin/client/ticket_queue/TicketFilters.jsx"
+			],
+			[
+				"assigne",
+				"meteor/imports/ui/admin/client/ticket_queue/AssignedTickets.jsx"
+			],
+			[
+				"addticketmod",
+				"meteor/imports/ui/admin/client/incoming_images/AddTicketModal.jsx"
+			],
+			[
+				"incoming",
+				"meteor/imports/ui/admin/client/ticket_queue/IncomingTickets.jsx"
+			],
+			[
+				"containe",
+				"meteor/imports/ui/admin/client/ticket_queue/helpers/ContainerHelpers.jsx"
+			],
+			[
+				"viewhe",
+				"meteor/imports/ui/admin/client/ticket_queue/helpers/ViewHelpers.jsx"
+			],
+			[
+				"incomingti",
+				"meteor/imports/ui/admin/client/ticket_queue/IncomingTickets.jsx"
+			],
+			[
+				"assignet",
+				"meteor/imports/ui/admin/client/ticket_queue/AssignedTickets.jsx"
+			],
+			[
+				"containerhe",
+				"meteor/imports/ui/admin/client/ticket_queue/helpers/ContainerHelpers.jsx"
+			],
+			[
+				"assignedticketc",
+				"meteor/imports/ui/admin/client/ticket_queue/AssignedTicketsContainer.jsx"
+			],
+			[
+				"ticket_de",
+				"meteor/packages/styles/client/scss/piazza/_ticket_details.scss"
+			],
+			[
+				"assignedticket",
+				"meteor/imports/ui/admin/client/ticket_queue/AssignedTickets.jsx"
+			],
+			[
+				"viewh",
+				"meteor/imports/ui/admin/client/ticket_queue/helpers/ViewHelpers.jsx"
+			],
+			[
+				"meteor/pack",
+				"meteor/package.json"
+			],
+			[
+				"ticket_publi",
+				"meteor/imports/api/server/publications/tickets_publications.js"
+			],
+			[
+				"util/utils",
+				"meteor/imports/api/shared/util/util.js"
+			],
+			[
+				"util/util",
+				"api/node_modules/util/util.js"
+			],
+			[
+				"ticketdetailstab",
+				"meteor/imports/ui/admin/client/ticket_details/tabs/TicketDetailsTab.jsx"
+			],
+			[
+				"ticket_que",
+				"meteor/packages/styles/client/scss/piazza/_ticket_queue.scss"
+			],
+			[
+				"ticket_det",
+				"meteor/packages/styles/client/scss/piazza/_ticket_details.scss"
+			],
+			[
+				"ticketad",
+				"meteor/imports/ui/admin/client/ticket_queue/TicketAddDirection.jsx"
+			],
+			[
+				"addcreativedire",
+				"~/selfmade/selfmade/meteor/imports/ui/admin/client/ticket_queue/AddCreativeDirectionContainer.jsx"
+			],
+			[
+				"ticketreview",
+				"meteor/imports/ui/admin/client/ticket_queue/TicketReviewFrame.jsx"
+			],
+			[
+				"admin_",
+				"meteor/imports/startup/client/admin_routes.jsx"
+			],
+			[
+				"viewcontainer",
+				"meteor/imports/ui/admin/client/ticket_queue/TicketReviewContainer.jsx"
+			],
+			[
+				"admin_r",
+				"meteor/imports/startup/client/admin_routes.jsx"
+			],
+			[
+				"ticketreviwe",
+				"meteor/imports/ui/admin/client/ticket_queue/TicketReviewContainer.jsx"
+			],
+			[
+				"deliveredticketscon",
+				"meteor/imports/ui/admin/client/ticket_queue/DeliveredTicketsContainer.jsx"
+			],
+			[
+				"deliveredcon",
+				"meteor/imports/ui/admin/client/ticket_queue/DeliveredTicketsContainer.jsx"
+			],
+			[
+				"ticketfilter",
+				"meteor/imports/ui/admin/client/ticket_queue/TicketFilters.jsx"
+			],
+			[
+				"containerhel",
+				"meteor/imports/ui/admin/client/ticket_queue/helpers/ContainerHelpers.jsx"
+			],
+			[
+				"containerhelper",
+				"meteor/imports/ui/admin/client/ticket_queue/helpers/ContainerHelpers.jsx"
+			],
+			[
+				"image_method",
+				"meteor/imports/api/shared/methods/image_methods.js"
+			],
+			[
+				"ticketstab",
+				"meteor/imports/ui/admin/client/ticket_details/tabs/TicketDetailsTab.jsx"
+			],
+			[
+				"ticketfilters",
+				"meteor/imports/ui/admin/client/ticket_queue/TicketFiltersContainer.jsx"
+			],
+			[
+				"ticketfil",
+				"meteor/imports/ui/admin/client/ticket_queue/TicketFilters.jsx"
+			],
+			[
+				"ticket_publication",
+				"meteor/imports/api/server/publications/tickets_publications.js"
+			],
+			[
+				"incomingticket",
+				"meteor/imports/ui/admin/client/ticket_queue/IncomingTickets.jsx"
+			],
+			[
+				"tickets_que",
+				"meteor/.meteor/local/isopacks/selfmade_styles/web.browser/client/scss/piazza/_ticket_queue.scss"
+			],
+			[
+				"addticketmodal",
+				"meteor/imports/ui/admin/client/incoming_images/AddTicketModal.jsx"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 374.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 640.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
